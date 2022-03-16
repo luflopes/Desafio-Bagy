@@ -31,8 +31,15 @@
 mais e por consequência ficarem mais satisfeitos com a plataforma. 
     </font>
 </p>
-<br>
-  
+ <h3>Abaixo, algumas visualizações geradas no processo de análise</h3><br>
+ <img src="https://user-images.githubusercontent.com/92451100/158601473-4e68144a-21c7-4594-906d-b2678610277d.png" width="800">
+ <hr>
+ <img src="https://user-images.githubusercontent.com/92451100/158601959-267486aa-7113-40ab-9d50-7aafd3da1992.png" width="800">
+ <hr>
+ <img src="https://user-images.githubusercontent.com/92451100/158602062-8501fe77-31ee-498f-b270-a81439d72a85.png" width="800">
+ <hr>
+ <img src="https://user-images.githubusercontent.com/92451100/158602320-de56fbf4-65ac-47b5-bbb1-da8024fcc579.png" width="800">
+
 </body>
 </html>
 
